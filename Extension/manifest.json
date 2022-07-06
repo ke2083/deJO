@@ -1,0 +1,25 @@
+{
+    "name": "deJO",
+    "description": "Bored witless at seeing a certain author's name everywhere, all the time? deJO removes them, images it can identify (by URL or alt text) and links about them.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons":
+    {
+        "48": "/assets/icons/48.png",
+        "128": "/assets/icons/128.png"
+    },
+    "content_scripts":
+    [
+        {
+            "matches":
+            [
+                "<all_urls>"
+            ],
+            "run_at": "document_idle",
+            "js":
+            [
+                "deJO.js"
+            ]
+        }
+    ]
+}

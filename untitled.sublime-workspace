@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"Riyria"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prett",
+				"Pretty JSON: Validate"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kayleeeluvian/repositories/deJO"
+	],
+	"file_history":
+	[
+		"/Users/kayleeeluvian/Library/Mobile Documents/com~apple~CloudDocs/Downloads/projects.json",
+		"/Users/kayleeeluvian/Library/Mobile Documents/com~apple~CloudDocs/Downloads/websiteresults.json",
+		"/Users/kayleeeluvian/Library/Mobile Documents/com~apple~CloudDocs/Downloads/results.json",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/FrostedHeader/FrostedHeader.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/Navigation/Navigation.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/Header/Header.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/style/layout.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/Header/Header.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/Navigation/Navigation.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/UtilityBar/Utilitybar.scss",
+		"/Users/kayleeeluvian/Library/Mobile Documents/com~apple~CloudDocs/Downloads/icomoon/style.css",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/style/font.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/img/KayEluvian-title.svg",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/package.json",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/FrostedHeader/FrostedHeader.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/config/jest/fileTransform.js",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/AudioPlayer/AudioPlayer.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/AudioPlayer/AudioPlayer.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/About.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Audiobook.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Character.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Commercials.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Contact.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Creatures.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Games.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Testimonials.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/Footer/Footer.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/Testimonial/Testimonial.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/VideoHero/VideoHero.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/Pages/Home.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/VideoHero/VideoHero.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/style/colours.scss",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/index.js",
+		"/Users/kayleeeluvian/Creative Cloud Files/SVG/Artboard 2.svg",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/img/amiAgency.svg",
+		"/Users/kayleeeluvian/Library/Mobile Documents/com~apple~CloudDocs/Downloads/Artboard 2.svg",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/WorldMap/WorldMap.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/App.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/AudioPlayer/AudioPlayer.spec.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/public/index.html",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/DownloadLink/DownloadLink.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/ErrorHandler/ErrorHandler.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/Tracker/Tracker.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/src/components/OutgoingLink/OutgoingLink.jsx",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/ClientSide/config/webpack.config.js",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/Vagrantfile",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/README.md",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/connect.sh",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/Dockerfile",
+		"/Users/kayleeeluvian/repositories/kayeluvian.com/kayeluvian.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
