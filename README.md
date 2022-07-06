@@ -5,7 +5,10 @@ Bored witless at seeing a certain author's name everywhere, all the time? deJO r
 
 ## Installation
 
-[Download the extension](https://github.com/ke2083/deJO/raw/master/Release/Extension.crx), open your Chrome extensions page and drag-and-drop it in. You may need to enable Developer Mode.
+  1. [Download the extension](https://github.com/ke2083/deJO/raw/master/Release/Extension.zip)
+  2. Unzip it somewhere on your machine
+  3. Open your Chrome extensions page and enable Developer Mode
+  4. Lastly click on 'Load Unpacked' and point it where you unzipped the extension
 
 ![](https://github.com/ke2083/deJO/raw/master/Images/Installation.png)
 
